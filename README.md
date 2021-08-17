@@ -1,5 +1,5 @@
 # Flight-Fare-Prediction
-A Web Application takes user's travel details and predicts expetcted fare.
+A Web Application that takes user's travel details and predicts expetcted fare.
 >
 **#How it works**
 1. A Machine Learning model works for the prediction process.
