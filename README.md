@@ -1,4 +1,3 @@
 # Flight-Fare-Prediction
-A web App, which lets the user to choose flight, time of travel, no. Of stoppages, And
-Predicts the expected Fare.
-Used: Machine Learning, Flask, HTML, CSS
+A Web Application takes user's travel details and predicts expetcted fare.
+#How it works
